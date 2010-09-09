@@ -1,1 +1,8 @@
+Dataforte Parent
+================
+
 Parent artifact for all Dataforte projects
+
+If you use Maven, you can get artifacts for this project at my repository:
+
+	http://www.dataforte.net/listing/maven/releases
