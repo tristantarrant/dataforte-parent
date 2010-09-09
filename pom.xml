@@ -29,9 +29,9 @@
 	</properties>
 
 	<scm>
-		<connection>scm:svn:http://dataforte.dyndns.org/svn/dataforte/dataforte-parent/trunk/</connection>
-		<developerConnection>scm:svn:http://dataforte.dyndns.org/svn/dataforte/dataforte-parent/trunk/</developerConnection>
-		<url>http://dataforte.dyndns.org/websvn/listing.php?repname=dataforte&amp;path=/dataforte-parent/trunk/</url>
+		<connection>scm:git:http://github.com/tristantarrant/dataforte-parent.gitt@github.com:tristantarrant/dataforte-parent.git</connection>
+		<developerConnection>scm:git:ssh://github.com/tristantarrant/dataforte-parent.git</developerConnection>
+		<url>http://github.com/tristantarrant/dataforte-parent</url>
 	</scm>
 
 	<distributionManagement>
