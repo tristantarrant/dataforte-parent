@@ -29,10 +29,14 @@
 	</properties>
 
 	<scm>
-		<connection>scm:git:http://github.com/tristantarrant/dataforte-parent.gitt@github.com:tristantarrant/dataforte-parent.git</connection>
+		<connection>scm:git:http://github.com/tristantarrant/dataforte-parent.git</connection>
 		<developerConnection>scm:git:ssh://github.com/tristantarrant/dataforte-parent.git</developerConnection>
 		<url>http://github.com/tristantarrant/dataforte-parent</url>
 	</scm>
+	
+	<issueManagement>
+		<url>http://github.com/tristantarrant/dataforte-parent/issues</url>
+	</issueManagement>
 
 	<distributionManagement>
 		<repository>
@@ -91,7 +95,6 @@
 
 				</configuration>
 			</plugin>
-
 		</plugins>
 	</reporting>
 
