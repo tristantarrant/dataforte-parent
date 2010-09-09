@@ -30,7 +30,7 @@
 
 	<scm>
 		<connection>scm:git:http://github.com/tristantarrant/dataforte-parent.git</connection>
-		<developerConnection>scm:git:ssh://github.com/tristantarrant/dataforte-parent.git</developerConnection>
+		<developerConnection>scm:git:ssh://git@github.com:tristantarrant/dataforte-parent.git</developerConnection>
 		<url>http://github.com/tristantarrant/dataforte-parent</url>
 	</scm>
 	
