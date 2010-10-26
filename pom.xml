@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>net.dataforte</groupId>
 	<artifactId>dataforte-parent</artifactId>
-	<version>5-SNAPSHOT</version>
+	<version>5</version>
 	<packaging>pom</packaging>
 	<name>Dataforte.net Parent Artifact</name>
 	<description>Dataforte.net Parent Artifact</description>
